@@ -7,9 +7,10 @@ The case we were assigned is one related to **travel agencies**.
 For privacy reasons, we will not show actual data provided to us.
 
 
-## Question1
+[## Question1](https://github.com/datasilvia/Last-Minute-Business-case/blob/main/question1.ipynb)
 
 
-### Question 2
+[## Question 2](https://github.com/datasilvia/Last-Minute-Business-case/blob/main/question2.ipynb)
+
 
 
